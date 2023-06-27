@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "memory": "cpp",
+        "xiosbase": "cpp",
+        "iostream": "cpp",
+        "fstream": "cpp",
+        "ostream": "cpp",
+        "ctime": "cpp",
+        "system_error": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "sstream": "cpp",
+        "mutex": "cpp"
+    }
+}

@@ -1,0 +1,8 @@
+Mon Jun 26 16:12:03 2023
+main:DEBUG : Debug print 
+Mon Jun 26 16:12:03 2023
+main:WARNING : warning print
+Mon Jun 26 16:12:03 2023
+main:INFO : Info print
+Mon Jun 26 16:12:03 2023
+main:ERROR : Error print
